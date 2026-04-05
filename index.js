@@ -15,7 +15,7 @@ const http = require('http');
 // ============================================================
 const CONFIG = {
     // Nomor WA kamu (format 62xxx, tanpa + atau spasi)
-    phoneNumber: '628xxxxxxxxxx',
+    phoneNumber: '6282157298268',
 
     // Port web server untuk lihat pairing code di browser
     webPort: 3000,
