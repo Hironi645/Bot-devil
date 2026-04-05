@@ -14,7 +14,7 @@ const fs = require('fs');
 // ============================================================
 const CONFIG = {
     // ✅ Isi nomor WA kamu di sini (format: 62xxx tanpa + atau spasi)
-    phoneNumber: '628xxxxxxxxxx',
+    phoneNumber: '6282157298268',
 
     sessionDir: './sessions',
 
